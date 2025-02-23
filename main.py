@@ -1,5 +1,5 @@
 
-# AIzaSyAscYRwPydO6Cg3pwodmjczt7Usa36KPV8
+
 
 from flask import Flask, request, jsonify, render_template
 import google.generativeai as genai
